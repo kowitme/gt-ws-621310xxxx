@@ -1,0 +1,3 @@
+Name: Kowit M
+Weight (kg): 61
+Height (cm): 176
